@@ -149,4 +149,53 @@ The data analysed in this project are public data from [Kaggle](https://www.kagg
 </div>
 
 
-## 3. Analysis
+## 3. Exploratory Data Analysis
+
+The first Step of the project is to perform some exploratory analysis to get some visual insights from that could be useful for the final Solution
+
+### 1. Likes Per Views and Comments Per Views
+
+The first Insight extracted from the data for most of the categories is that it’s more likely to have more comments when the rating are enabled for the video, and it’s ideal to leave aslo the comment enabled to get more likes
+
+ ![image](https://user-images.githubusercontent.com/103480107/202584769-a088c525-3ec8-48b2-ad82-3b3c3c287446.png)
+ 
+ ### 2. Publication’s  day of the week
+
+The first Insight extracted from the data for most of the categories is that it’s more likely to have more comments when the rating are enabled for the video, and it’s ideal to leave aslo the comment enabled to get more like
+
+![image](https://user-images.githubusercontent.com/103480107/202584869-ece55f2f-c6d8-40bf-bad4-6a3f17c435bb.png)
+
+ ### 3. Time To reach Trending
+
+It’s Visualy observed that time taken for a video te reach trending  varies between the different categories and Countries, that could be useful for the investors to not invest on videos published for a longer time than the Duration it usualy take videos for similar videos to reach trending
+
+![image](https://user-images.githubusercontent.com/103480107/202585091-69168112-3f70-41bc-84db-71d35bac2bbd.png)
+
+ ### 4.  Word Cloud Tags
+ 
+ THE Tags world cloud could be very useful to extract the most used tags in the trending videos and that could be used by youtubers.
+ 
+ ![image](https://user-images.githubusercontent.com/103480107/202585257-73e7f271-3a7b-4090-99e7-8ab187aa347a.png)
+ 
+  ## 4. Solution Presentation
+ 
+ The Final conclusion of the project is framed as an interactive guides for youtubers and Investors based on the insights found in the previous part
+
+### Youtubers guide
+
+<p>Concerning the Investors&nbsp;:</p><ol><li>the Guide start by showing an evaluation of the for the different categories in term of duration in tranding to help them to chose&nbsp;categries where the videos could stay in trending for longer periods <br></li><li>&nbsp;After Chosing a specific categorie the most optimal days of the week to publish their videos are displayed</li><li>Finally the word cloud&nbsp;provide the best Tags to use for a specific country and a specific categorie .</li></ol> 
+
+![image](https://user-images.githubusercontent.com/103480107/202586701-422b8cf1-6a66-4f47-bb1f-5e5c38288547.png)
+![image](https://user-images.githubusercontent.com/103480107/202586711-908cf159-f598-45df-8208-36e68eab68d7.png)
+
+
+### Invesors Guide
+
+<p>Concerning the Investors&nbsp;:</p><ol><li>1.the Guide start by showing an evaluation of the reach for the different categories in the targeted country or countries to help them decide ,</li><li>2.After Chosing a specific categorie the visual time taken to reach trending define the limit for the duration online</li><li>3.Finally the best chanels with the highest number of trending videos are displayed in order to help the investor decide which chanel to invest in on the chosen countries</li></ol>  
+
+![image](https://user-images.githubusercontent.com/103480107/202586231-4caca9df-9482-4808-9935-005d0b7cf987.png)
+
+
+## 4. Usability 
+
+  - Clone the [repo](https://github.com/amine-abdollah/Youtube_Trending_Videos_Analysis) using this command in your terminal `git clone 
