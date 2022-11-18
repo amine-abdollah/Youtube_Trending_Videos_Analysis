@@ -157,7 +157,7 @@ The first Step of the project is to perform some exploratory analysis to get som
 
 The first Insight extracted from the data for most of the categories is that it’s more likely to have more comments when the rating are enabled for the video, and it’s ideal to leave aslo the comment enabled to get more likes
 
- ![image](https://user-images.githubusercontent.com/103480107/202584769-a088c525-3ec8-48b2-ad82-3b3c3c287446.png)
+ ![image](https://user-images.githubusercontent.com/103480107/202587482-c7ee2d87-aeec-41c2-8291-2fa5e1e4daed.png)
  
  ### 2. Publication’s  day of the week
 
